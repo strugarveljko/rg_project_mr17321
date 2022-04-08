@@ -10,3 +10,4 @@ Kontrole:
 2) Ukljuci/iskljuci prozirni skener - hold/release space button
 
 Youtube link:
+https://youtu.be/Ere3LohQQ6o
